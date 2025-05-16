@@ -1,0 +1,1 @@
+Car price prediction using machine learning is a technique that utilizes algorithms to estimate the market value of a vehicle based on various factors like make, model, year, mileage, and other attributes. It involves training machine learning models on historical car price data to learn patterns and relationships, enabling them to predict prices for new, unseen vehicles
